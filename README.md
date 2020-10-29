@@ -1,2 +1,3 @@
 # hello-world
-Aprendiendo con github
+Learning with github
+I´m very shy
